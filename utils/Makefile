@@ -27,7 +27,7 @@
 
 CFLAGS		?= -g -O2 -Wall
 
-PROGRAMS	= inputattach jstest jscal fftest ffmvforce ffset \
+PROGRAMS	= inputattach jstest jscal fftest ffset \
 		  ffcfstress jscal-restore jscal-store
 
 PREFIX          ?= /usr/local
